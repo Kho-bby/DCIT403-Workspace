@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-01-29T07:34:43.363073",
+    "location": "Zone_B",
+    "event_type": "Structural_Collapse",
+    "damage_level": "Medium",
+    "casualties": 28,
+    "urgency": "Low"
+  },
+  {
+    "timestamp": "2026-01-29T07:34:48.367866",
+    "location": "Zone_C",
+    "event_type": "Fire",
+    "damage_level": "High",
+    "casualties": 37,
+    "urgency": "Immediate"
+  },
+  {
+    "timestamp": "2026-01-29T07:34:53.368479",
+    "location": "Zone_B",
+    "event_type": "Flood",
+    "damage_level": "High",
+    "casualties": 32,
+    "urgency": "Immediate"
+  },
+  {
+    "timestamp": "2026-01-29T07:34:58.369035",
+    "location": "Zone_D",
+    "event_type": "Fire",
+    "damage_level": "Critical",
+    "casualties": 42,
+    "urgency": "Medium"
+  },
+  {
+    "timestamp": "2026-01-29T07:35:03.364488",
+    "location": "Zone_B",
+    "event_type": "Structural_Collapse",
+    "damage_level": "Critical",
+    "casualties": 32,
+    "urgency": "Immediate"
+  },
+  {
+    "timestamp": "2026-01-29T07:35:08.369085",
+    "location": "Zone_D",
+    "event_type": "Fire",
+    "damage_level": "Low",
+    "casualties": 49,
+    "urgency": "Medium"
+  }
+]
